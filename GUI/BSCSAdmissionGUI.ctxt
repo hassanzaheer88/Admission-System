@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BSCSAdmissionGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createMainMenu()
+comment3.params=parentFrame
+comment3.target=void\ openFormEntry(javax.swing.JFrame)
+comment4.params=parentFrame
+comment4.target=void\ openTestEntry(javax.swing.JFrame)
+comment5.params=parentFrame
+comment5.target=void\ displayEligibleStudents(javax.swing.JFrame)
+comment6.params=parentFrame
+comment6.target=void\ displayMeritList(javax.swing.JFrame)
+numComments=7
